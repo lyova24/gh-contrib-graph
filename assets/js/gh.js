@@ -1,5 +1,5 @@
 async function fetchData(ghLogin) {
-    let response = await fetch(`https://lengthylyova.pythonanywhere.com/api/gh-contrib-graph/fetch-data/?githubLogin=${ghLogin}`, {method: "GET"});
+    let response = await fetch(`https://lyova24.ru/api/gh-contrib-graph/fetch-data/?login=${ghLogin}`, {method: "GET"});
     let data = await response.json();
     console.log(data)
     return data['data']['user']
@@ -108,8 +108,8 @@ function init_thumbnail() {
     const thumbnailImage = document.createElement("img");
 
     thumbnail.className = "ghThumbNail";
-    thumbNailLink.href = "https://github.com/lengthylyova/gh-contrib-graph";
-    thumbnailImage.src = "http://lengthylyova.pythonanywhere.com/static/gh-contrib-graph/thumbnail.png";
+    thumbNailLink.href = "https://github.com/lyova24/gh-contrib-graph";
+    thumbnailImage.src = "https://lyova24.ru/static/gh-contrib-graph/thumbnail.png";
     thumbnailImage.style.width = "150px";
     thumbnailImage.style.marginTop = "10px";
     thumbnailImage.alt = "GitHub Contribution Graph";
