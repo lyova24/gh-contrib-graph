@@ -28,4 +28,4 @@
 
 * Replace `YOUR_GITHUB_LOGIN` with the *GitHub Login* of the user whose data you want to graph.
 
-* [API Documentation](https://ghcg.lyova24.ru/schema#tag/gh-contrib-graph)
+* [API Documentation](https://ghcg.lyova24.ru/schema#tag/ghcg)
