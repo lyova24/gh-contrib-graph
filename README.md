@@ -14,7 +14,7 @@
 ```html
 <!-- GOES INTO HEAD -->
 <!-- lengthylyova.pythonanywhere.com deprecated since Friday 05 September 2025 -->
-<!--<link rel="stylesheet" href="http://lengthylyova.pythonanywhere.com/static/gh.css">-->
+<!-- <link rel="stylesheet" href="http://lengthylyova.pythonanywhere.com/static/gh.css"> -->
 <link rel="stylesheet" href="https://ghcg.lyova24.ru/static/gh.css">
 
 <!-- GOES INTO BODY -->
@@ -22,7 +22,7 @@
 
 <!-- GOES INTO THE END OF BODY -->
 <!-- lengthylyova.pythonanywhere.com deprecated since Friday 05 September 2025 -->
-<!--<link rel="stylesheet" href="http://lengthylyova.pythonanywhere.com/static/gh.css">-->
+<!-- <script src="http://lengthylyova.pythonanywhere.com/static/gh.js"></script> -->
 <script src="https://ghcg.lyova24.ru/static/gh.js"></script>
 ```
 
