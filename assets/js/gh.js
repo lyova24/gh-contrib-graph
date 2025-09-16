@@ -2,7 +2,7 @@ async function fetchData(ghLogin) {
     let response = await fetch(`https://ghcg.lyova24.ru/api/ghcg/fetch-data/?login=${ghLogin}`, {method: "GET"});
     let data = await response.json();
     console.log(data)
-    return data['data']['user']
+    return data['user']
 }
 
 function init_table() {
