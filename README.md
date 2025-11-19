@@ -1,3 +1,15 @@
+<div align="center">
+
+<h3>archived</h3>
+<p>
+this repository is no longer maintained by its creator. the backend specified in the documentation has been disabled. i apologize for the inconvenience. thanks to those who participated in the development and to those who directly used it!
+the graph itself (its static component) remains functional, provided the appropriate backend server is present.
+</p>
+
+</div>
+
+---
+
 <img src="assets/media/thumbnail.png">
 
 ---
